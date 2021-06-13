@@ -1,0 +1,26 @@
+{
+  "name": "canbot",
+  "version": "2.0.3",
+  "description": "Ben yapt�m i�te aa",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cano-Yt/temiz-v12.git"
+  },
+  "author": "Can",
+  "license": "MIT",
+  "homepage": "https://github.com/Cano-Yt/temiz-v12/blob/main/README.md",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "site-checker": "^4.0.2",
+    "wio.db": "^4.0.21"
+  }
+}
